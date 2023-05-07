@@ -452,7 +452,3 @@ These tests can be run using `npm test` (or optionally `npm run test`).
 ## License
 
 This repository is [MIT licensed](./LICENSE).
-
-```
-
-```
