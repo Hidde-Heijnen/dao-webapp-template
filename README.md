@@ -1,6 +1,6 @@
 # Aragon Frontend Starter Kit
 
-Welcome to the Aragon Frontend Starter Kit, an open-source, fully-featured, and customizable solution designed for the [SecureSECO](https://secureseco.org/) project, but easily adaptable. This repository aims to provide an easy-to-use, adaptable, and robust frontend foundation for DAOs, enabling developers to experiment with unique use cases and cater to various communities and organizations.
+Welcome to the Aragon Frontend Starter Kit, an open-source, fully-featured, and customizable solution designed for the [SecureSECO](https://secureseco.org/) project, but easily adaptable. This repository aims to provide an easy-to-use, adaptable, and robust frontend foundation for DAOs, enabling developers to experiment with unique use cases and cater to various communities and organizations. Since Aragon doesn't support plugins in their own frontend yet, this starter template will be very valuable for people that are currently trying to extend their Aragon OSx DAO's.
 
 This is the repository for the web-app used to interact with the DAO for the SecureSECO project. It has been built using React together with Vite and is currently being utilized in the [SecureSECO DAO webapp](https://github.com/SecureSECODAO/dao-webapp) project. The logos, text, and other elements are tailored to fit the SecureSECO project, but you're free to modify or replace them as needed.
 
